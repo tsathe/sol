@@ -115,6 +115,7 @@ section h2 {
     background-color: transparent;
   }
   #mainNav .navbar-brand {
+    font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
     color: fade(white, 70%);
   }
 
