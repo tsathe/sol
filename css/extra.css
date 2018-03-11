@@ -427,6 +427,17 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background: linear-gradient(#fdcc52, #fdc539);
 }
 
+.bg-primary:after {
+    content: "";
+    background: url(http://subtlepatterns.com/patterns/bo_play_pattern.png) repeat;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
 .text-primary {
   color: #fdcc52;
 }
