@@ -456,26 +456,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .team-member .rounded-circle:hover {
-  background: red;
-  background-color: red;
-  opacity: 0.5;
-  border:1px solid red;
-  color: red;
-  background: red;
-  background-color: red;
+  border:4px solid #dd4b39;
 }
 
-.team-member .rounded-circle:hover:before {
-  content: "\f0e1";
-  color: red;
-  background-color: blue;
-}
-
-.team-member .img:hover:before {
-  content: "\f0e1";
-  color: red;
-  background-color: blue;
-}
 
 
 .team-member h4 {
