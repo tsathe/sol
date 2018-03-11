@@ -465,13 +465,15 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .team-member .rounded-circle:hover:before {
   content: "\f0e1";
+  color: red;
+  background-color: blue;
 }
 
-
-/*.team-member .img:hover {
-  background-color: red;
-  border:1px solid red;
-}*/
+.team-member .img:hover:before {
+  content: "\f0e1";
+  color: red;
+  background-color: blue;
+}
 
 
 .team-member h4 {
