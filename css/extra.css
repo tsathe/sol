@@ -154,8 +154,8 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg_main.png"), url("../img/bg-pattern.png");
-  background-repeat: no-repeat, repeat;
+  background: url("../img/bg_blur.png");
+  background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   -webkit-background-size: cover;
