@@ -122,10 +122,6 @@ section h2 {
     width:"0px";
   }
 
-  #mainNav .navbar-brand .img {
-    width:"0px";
-  }
-
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
     color: white;
   }
