@@ -456,6 +456,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .team-member .rounded-circle:hover {
+  background: red;
+  background-color: red;
   opacity: 0.5;
   border:1px solid red;
   color: red;
