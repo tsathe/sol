@@ -123,6 +123,10 @@ section h2 {
     max-width:"0px";
   }
 
+  #mainNav .navbar-brand .img {
+    max-width:"0px";
+  }
+
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
     color: white;
   }
