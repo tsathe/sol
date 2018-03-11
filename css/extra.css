@@ -460,10 +460,10 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   border:1px solid red;
 }
 
-.team-member .img:hover {
+/*.team-member .img:hover {
   background-color: red;
   border:1px solid red;
-}
+}*/
 
 
 .team-member h4 {
