@@ -459,6 +459,10 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   background-color: red;
 }
 
+.team-member .img:hover {
+  background-color: red;
+}
+
 
 .team-member h4 {
   margin-top: 25px;
