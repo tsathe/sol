@@ -118,7 +118,7 @@ section h2 {
     color: fade(white, 70%);
   }
 
-  #mainNav .navbar-brand .img {
+  #mainNav .navbar-brand>img {
     width: 0px;
   }
 
@@ -141,7 +141,7 @@ section h2 {
     color: #222222;
   }
 
-  #mainNav.navbar-shrink .navbar-brand .img {
+  #mainNav.navbar-shrink .navbar-brand>img {
     color: #222222;
     width: 30px;
   }
