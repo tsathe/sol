@@ -450,9 +450,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .team-member img {
-  width: 225px;
-  height: 225px;
-  border: 7px solid #fff;
+  width: 125px;
+  height: 125px;
+  border: 7px solid #fdcc52;
 }
 
 .team-member h4 {
