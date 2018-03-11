@@ -117,11 +117,6 @@ section h2 {
   #mainNav .navbar-brand {
     color: fade(white, 70%);
   }
-
-  #mainNav .navbar-brand>img {
-    width: 0px;
-  }
-
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
     color: white;
   }
@@ -140,12 +135,6 @@ section h2 {
   #mainNav.navbar-shrink .navbar-brand {
     color: #222222;
   }
-
-  #mainNav.navbar-shrink .navbar-brand>img {
-    color: #222222;
-    width: 30px;
-  }
-
   #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
     color: #fdcc52;
   }
