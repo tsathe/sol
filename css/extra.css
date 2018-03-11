@@ -120,7 +120,7 @@ section h2 {
   }
 
   #mainNav .navbar-brand>img {
-    width:"0px";
+    max-width:"0px";
   }
 
   #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
