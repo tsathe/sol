@@ -461,6 +461,11 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   color: red;
 }
 
+.team-member .rounded-circle:hover:before {
+  content: "\f0e1";
+}
+
+
 /*.team-member .img:hover {
   background-color: red;
   border:1px solid red;
