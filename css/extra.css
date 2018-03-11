@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 1px;
 }
 
@@ -61,15 +61,15 @@ section h2 {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 300;
   letter-spacing: 1px;
 }
 
 #mainNav .navbar-brand {
   color: #fdcc52;
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-  font-weight: 200;
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  font-weight: 300;
   letter-spacing: 1px;
 }
 
