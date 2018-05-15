@@ -170,7 +170,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg_blur.png");
+  /* background: url("../img/bg_blur.png"); */
+  background-img: none;
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
